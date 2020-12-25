@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the configuration files and documentation for my Dual Xeon X79 Motherboard with 128GB 1866MHz DDR3 ECC RAM that I use for virtualization to test software, Kubernetes deployments, operating systems, and more.
+This repository contains the configuration files and documentation for my dual 8-Core Xeon E5-2650v2 2.60GHz X79 Motherboard with 128GB 1866MHz DDR3 ECC RAM that I use for virtualization to test software, Kubernetes deployments, operating systems, and more.
 
 ## Resources
 
