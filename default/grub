@@ -1,0 +1,1 @@
+GRUB_CMDLINE_LINUX_DEFAULT="text nomodeset intel_iommu=on vfio_iommu_type1.allow_unsafe_interrupts=1 pcie_acs_override=downstream,multifunction rd.driver-pre=vfio-pci video=efifb:off consoleblank=60"
